@@ -1,0 +1,43 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	cout<<"hello,gdufs" <<endl;
+	return 0;
+ } 
+ `#include <iostream>
+using namespace std;
+int main()
+{
+	int x,y,z; 
+	cout<<"请输入两个整数:"	;
+	cin>>x>>y;
+	z=x+y;
+	cout<<"两数的和是："<<z;
+	return 0;
+	 
+ } 
+ #include <iostream>
+using namespace std;
+
+int main(){
+	cout<<"oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo"<<endl;
+	cout<<"oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo"<<endl;
+	cout<<"ooooo  ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo"<<endl;
+	cout<<"ooooooooooooooooooooooooooo    ooooooooooooooooooooooooooooooooooooo"<<endl;
+	cout<<"oooo  oooooooooooooooooo  oooooo  oooooooooooooooooooooooooooooooooo"<<endl;
+	cout<<"oooooooooooooooooooo  oooooooooooooo  oooooooooooooooo ooooooooooooo"<<endl;
+	cout<<"oooooo  oooooooo  oooooooooooooooooooooo  ooooooooooo  ooooooooooooo"<<endl;
+	cout<<"oooooooooooo  ooooooooooooooooooooooooooooooo  ooooo   ooooooooooooo"<<endl;
+	cout<<"ooooooooo  oooooo  oooooooooooooooooooooooooooooo  oo  ooooooooooooo"<<endl;
+	cout<<"ooooooooo  oooooooooooooooooooooooooooooooooooooo  oo  ooooooooooooo"<<endl;
+	cout<<"oooooooooooo  ooooooooooooooooooooooooooooooo  ooooo   ooooooooooooo"<<endl;
+	cout<<"oooooooooooooooo  ooooooooooooooooooooooo  oooooooooo  ooooooooooooo"<<endl;
+	cout<<"oooooooooooooooooooo  ooooooooooooooo  ooooooooooooooo ooooooooooooo"<<endl;
+	cout<<"ooooooooooooooooooooooooo  oooooo  ooooooooooooooooooooooooooooooooo"<<endl;
+	cout<<"oooooooooooooooooooooooooooo    oooooooooooooooooooooooooooooooooooo"<<endl;
+	cout<<"oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo"<<endl;
+	cout<<"oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo"<<endl;
+	cout<<"oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo"<<endl;
+	cout<<"oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo"<<endl;
+}
